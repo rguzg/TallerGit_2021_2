@@ -6,4 +6,4 @@
 * I would like code with new people and be able to share my knowledge
 * Pronouns **he/him/his** 👨
 
->  **DREAM HARD, WORK HARDERR (:**
+>  **DREAM HARD, WORK HARDER (:**
