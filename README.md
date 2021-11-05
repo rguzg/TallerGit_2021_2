@@ -27,4 +27,4 @@
 1. En la Pull Request te comentaré si es necesario que realices alguna modificación a tu práctica. Si no hay ningún cambio por realizar aceptaré la Pull Request
 1. Si acepté la Pull Request eso significa que la práctica está terminada. 😎
 
-**¡Mucha suerte en su práctica! Y recuerden que me pueden encontrar en Discord por cualquier duda que tengan ✌️**
+**¡Mucha suerte en su práctica! Y recuerden que me pueden encontrar en Discord por cualquier duda que tengan ✌️✌️**
