@@ -16,14 +16,14 @@
 [Texto del Link](https://github.com/usuario/repositorio)
 ```
 
-1. Mientras vayas trabajando en la rama **main** ve tomando evidencias de los comandos de Git que utilizaste o de las interacciones que tuviste con VSCode en la sección de control de versiones. Trata de agregar al menos 3 evidencias.
+7. Mientras vayas trabajando en la rama **main** ve tomando evidencias de los comandos de Git que utilizaste o de las interacciones que tuviste con VSCode en la sección de control de versiones. Trata de agregar al menos 3 evidencias.
 1. En la rama **evidencias**, crea un archivo llamado _evidencias.md_ dentro de la carpeta creada en el paso 3 que contenga las evidencias de los comandos de Git que utilizaste. Recuerda que el formato para agregar imágenes a Markdown es:
 
 ```markdown
 ![Texto que describe la imagen](imagen.png)
 ```
 
-1. Cuando hayas recolectado todas tus evidencias y hayas terminado de editar tu _README.md_, haz un merge de la rama **evidencias** a **main**
+9. Cuando hayas recolectado todas tus evidencias y hayas terminado de editar tu _README.md_, haz un merge de la rama **evidencias** a **main**
 1. Crea un Pull Request de la rama **main** de tu repositorio a la rama **main** de este repositorio
 1. En la Pull Request te comentaré si es necesario que realices alguna modificación a tu práctica. Si no hay ningún cambio por realizar aceptaré la Pull Request
 1. Si acepté la Pull Request eso significa que la práctica está terminada. 😎
