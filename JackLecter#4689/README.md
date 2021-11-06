@@ -1,8 +1,9 @@
 # Howdy there cowboy! 🤠
 
-Me llamo Jesús Ulises Alonso y estudio en la Facultad de Informática de la UAQ.
+Me llamo Ulises Alonso y estudio en la Facultad de Informática de la UAQ.
 
-- **Currently studying at 🖥️:** [Facultad de Informática](https://www.uaq.mx/informatica/cede.html)
+- **Currently studying at 🖥️:** [Facultad de Informática](uaq.mx/informatica/index.html)
+- **Wanting to become a 💠:** [Front End Developer](https://medium.com/@ivandevp/qu%C3%A9-es-ser-una-front-end-developer-f8b66735bc80)
 - **Currently listening to 🎧:** [Labrinth](https://www.youtube.com/watch?v=7mpe7ph5Ps4)
 - **Currently playing 🎮:** [Lost Ark](https://www.youtube.com/watch?v=OFaHLi2dn68)
 - **Currently watching 👀:** [Euphoria](https://www.youtube.com/watch?v=nqSQUrlnB9s)
