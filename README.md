@@ -11,16 +11,21 @@ Mi nombre es Abisai Briones, estudio en la unviersidad de la facultad de inform√
      - S.T.A.L.K.E.R
      - Deus Ex:
      - Rocket League
-     
+     - Minecraft
+
 - Escuchar musica
      - Jazz
      - Prog
      - Cl√°sica
+     - Rock
+- Mirar series
+     - Westworld
+     - X-Files
+     - Better Call Saul
      - 
 
-- 
 ## Fotos
-![Picture](prog.jpg)
+![Picture](foto1.jpg)
 
 ##  Quote
 
