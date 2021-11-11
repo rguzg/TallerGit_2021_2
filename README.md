@@ -27,7 +27,7 @@ Mi nombre es Abisai Briones, estudio en la unviersidad de la facultad de inform√
 
 ## Fotos
 ![Picture](foto1.jpg)
-![Picture](foto2.jpg)
+![Picture2](foto2.jpg)
 
 ##  Quote
 
