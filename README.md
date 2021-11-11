@@ -14,7 +14,11 @@ Me llamo Jhovani Ramos y estudio en la facultad de Informática de la UAQ
 
 - Jugar Videojuegos
      - Play Station 5
-     - Days Gone 
+       * Days Gone 
+       * Spiderman
+       * Spiderman Miles morales 
+       * Gta V
+       * God of war
 
 - Practicar Natación
      - Estilo crol
@@ -25,6 +29,7 @@ Me llamo Jhovani Ramos y estudio en la facultad de Informática de la UAQ
 ## Fotos
 ![Picture](prog.jpg)
 ![Picture](nado.jpg)
+![Picture](pslogo.jpg)
 ##  Quote
 
 > Divide y venceras
