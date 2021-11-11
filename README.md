@@ -32,10 +32,15 @@ Me llamo Jhovani Ramos y estudio en la facultad de Informática de la UAQ
 ![Picture](pslogo.jpg)
 ##  Quote
 
-> Divide y venceras
+> "Divide y venceras"
+> "Aquel que no conoce sus limites, nunca alcanzara su potencial"
 
 ## Código
 
-```C#
-Console.writeline("Hola papus");
+```java
+System.out.println("Código");
+
+
+
+
 
