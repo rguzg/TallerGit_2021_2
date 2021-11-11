@@ -26,10 +26,17 @@ Me llamo Jhovani Ramos y estudio en la facultad de Informática de la UAQ
      - Estilo pecho
      - Estilo mariposa
 
+- Musica
+     - Coldplay
+     - Twenty one pilot
+     - Imagine Dragons 
+     - Hombres G
+
 ## Fotos
 ![Picture](prog.jpg)
 ![Picture](nado.jpg)
 ![Picture](pslogo.jpg)
+![Picture](spotify.jpg)
 ##  Quote
 
 > "Divide y venceras"
