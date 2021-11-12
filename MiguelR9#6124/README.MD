@@ -13,6 +13,9 @@ Me llamo Miguel Romero y estudio en la Facultad de Informática de la UAQ
         - El poderoso FIFA B)
         - El otro
 - Programar 
+    - Lenguajes:
+        - C#
+        - java
     
 - Leer 
 
