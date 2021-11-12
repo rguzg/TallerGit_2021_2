@@ -2,6 +2,11 @@
 
 Me llamo Francisco y estudio en la facultad de informatica de la UAQ
 
+## Me gustaria aprender
+- Desarrollo de aplicaciones
+- JavaScript
+- Manejo de bases de datos
+
 ## Hobbies 
 - Programación
     - C#
@@ -19,6 +24,8 @@ Me llamo Francisco y estudio en la facultad de informatica de la UAQ
 - Ver series 
     - Breaking Bad
     - Band of Brothers
+
+
 
 ## Mi mascota
 
