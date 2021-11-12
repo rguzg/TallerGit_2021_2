@@ -25,7 +25,12 @@ Me llamo Francisco y estudio en la facultad de informatica de la UAQ
     - Breaking Bad
     - Band of Brothers
 
-
+## Artistas favoritos
+- Coldplay
+- Imagine Dragons
+- The Killers
+- Of Monsters and Men
+- Twenty One Pilots
 
 ## Mi mascota
 
