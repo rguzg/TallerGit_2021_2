@@ -12,6 +12,7 @@ Me llamo Alexis Morales y estudio en la Facultad de informatica de la UAQ
 - Ver Series
 - Hacer Ejercicio
 - Hacer cursos
+- Ver peliculas
 ## Mi mascota
 ![Foto de mi mascota](cachorro.jpg)
 
