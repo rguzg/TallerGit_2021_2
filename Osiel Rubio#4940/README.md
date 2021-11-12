@@ -35,5 +35,8 @@ print("Hello world")
 print("Estoy aprendiendo Git :D")
 
 ```
-
+## Cosas que me gustaría aprender en la carrera:
+- Cualquier lenguaje de programación de manera avanzada
+- Aprender sobre ciencias de datos
+- Desarrollo web
 
