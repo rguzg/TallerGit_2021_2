@@ -37,3 +37,9 @@ System.out.println("Hola Mundo");
 - Smoke Filled Room - Mako 
 - Time Back - 2pac
 
+![Sunset Sons](SunsetSons.jpg)
+
+## ¿Qué me gustaría aprender? 
+- Utilizar HTML 
+- Aprender más lenguajes de programación.
+- Utilizar de buena manera el git. 
