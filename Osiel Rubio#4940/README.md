@@ -1,7 +1,7 @@
 #Bienvenido@
 ## Hola:
 Mi nombre es Osiel Rubio Suárez, soy estudiante  de primer semestre de la Facultad de Informática de la UAQ en la carrera de Ingeniería de Software, soy una persona introvertida que le gusta estar es su mundo, me encanta aprender un montón sobre tecnología y ciencia en general, me suelo distraer muy fácil, pero cuando me gusta algo puedo entretenerme en ello por horas.
-![Imagen](image.jpg) 
+![Imagen](image1.jpg) 
 
 
 
@@ -40,3 +40,4 @@ print("Estoy aprendiendo Git :D")
 - Aprender sobre ciencias de datos
 - Desarrollo web
 
+![imagen]
