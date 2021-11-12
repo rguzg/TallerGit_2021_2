@@ -40,4 +40,4 @@ print("Estoy aprendiendo Git :D")
 - Aprender sobre ciencias de datos
 - Desarrollo web
 
-![imagen]
+![Imagen](image2.jpg) 
