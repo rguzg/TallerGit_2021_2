@@ -27,6 +27,9 @@ dasdasdas
 > quiero aprender a utilizar el manejo de versiones y poder usar las ventajas que ccon lleva usarlo, para así poder tener una mejor formación 
 
 
+## aprendiendo..
+> estoy aprendiendo a usar HTML y css, ya que megustaria en focarme en un desarrollo web
+
 ## mi quote favorita
 
 > Divide y venceras
