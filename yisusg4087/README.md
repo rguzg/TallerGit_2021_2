@@ -1,4 +1,8 @@
-# hola mundo 
+# Jesús Guevara Ramírez
+
+## Datos 
+- Semestre 1
+- Ing de Software
 
 ## Hobbies
 
