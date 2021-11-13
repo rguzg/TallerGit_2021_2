@@ -7,3 +7,7 @@ Tengo 23 años
 - Ciberseguridad
 - Electronica
 
+## Lenguajes
+- Java
+- Python
+- C#
