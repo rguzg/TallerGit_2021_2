@@ -11,7 +11,7 @@ Me llamo Carlos y estoy estudiando Ingenieria en Software en la Facultad de Info
     - *Charles-san* en Steam
 
 ## Mi perfil de steam
-![Mi perfil](imagenes\perfil_steam.png)
+![Mi perfil](perfil_steam.png)
 
 ## Cancion favorita 
 
@@ -60,7 +60,7 @@ Me llamo Carlos y estoy estudiando Ingenieria en Software en la Facultad de Info
     Arialdead
 
 ## Mi Mascota
-![Foto de mi gata](imagenes\lapuerca.jpg)
+![Foto de mi gata](lapuerca.jpg)
 
 ## Mi quote favorita 
 
