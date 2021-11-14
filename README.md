@@ -7,14 +7,15 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
 - Programación
     - Java
     - C#
+    - Dart
 - Ver series
     - Grey's Anatomy
     - Brooklyn 99
-    - Friends
+    - HIMYM
 - Esuchar música
     - Armenia
     - Caloncho
-    - Sabino
+    - Shakira
 
 ## Mi Mascota
 
