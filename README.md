@@ -28,8 +28,10 @@ Me llamo Natalia Gutiérrez y estudio en la facultad de Informática de la UAQ
 # Mis recomendaciones de películas
 
 - Aventura en Alaska
+- Forrest Gump
 - The Grand Budapest Hotel
 - Lady Bird
+- Baby Driver
 
 ## Código
 
