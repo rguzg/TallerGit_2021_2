@@ -46,3 +46,7 @@ print("Hello World")
 ```html
 <p>Hello World</p>
 ```
+
+```java
+System.out.println("Hello World");
+```
