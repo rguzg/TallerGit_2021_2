@@ -1,4 +1,8 @@
-# Práctica de Presentaciones
+# Práctica de Presentaciones 2021_2
+
+**Versión archivada de la práctica de presentaciones del Taller de Git 2021_2**
+
+Puedes checar la plantilla de la práctica de presentaciones [aquí](https://github.com/rguzg/Practica_TallerGit)
 
 **¡Felicidades por haber acabado el Taller de Introducción a Git!** <br>
 **Ahora es hora de poner a prueba lo que aprendiste en el taller**
